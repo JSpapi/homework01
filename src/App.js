@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import FaceIt from './components/FaceIt';
 import Header from './components/Header'
 import MainPage from './components/MainPage';
