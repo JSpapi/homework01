@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import FaceIt from './components/FaceIt';
+import Header from './components/Header'
+import MainPage from './components/MainPage';
+import TopTeams from './components/TopTeams';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+          <Header/>
+          <Routes>
+            {/*ROUTER 1  */}
+            <Route path='/' element={<MainPage/>}>
+            </Route>
+            {/*ROUTER 2  */}
+            <Route path='/TopTeams' element={<TopTeams/>}>
+            </Route>
+            {/*ROUTER 3  */}
+            <Route path='/FaceIt' element={ <FaceIt/>}>
+            </Route>
+          </Routes>
+      </div>
+    </Router>
   );
 }
 
