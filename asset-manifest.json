@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/homework01/static/css/main.f3d3ca23.css",
+    "main.js": "/homework01/static/js/main.6067bd0b.js",
+    "static/media/faceIt.png": "/homework01/static/media/faceIt.2e329169bc5bd79f5ae9.png",
+    "static/media/csGo.jpeg": "/homework01/static/media/csGo.1039e53ef77cea520786.jpeg",
+    "static/media/nafany.jpg": "/homework01/static/media/nafany.ff76517ef58c89c804c2.jpg",
+    "static/media/b1t.jpg": "/homework01/static/media/b1t.1cd5d9966f7472de28e4.jpg",
+    "static/media/interz.jpg": "/homework01/static/media/interz.2db08420bb823d7b35c2.jpg",
+    "static/media/broky.jpg": "/homework01/static/media/broky.e4b4c36192ca589c6db4.jpg",
+    "static/media/electronic.jpg": "/homework01/static/media/electronic.d1e2baa10da1b898346a.jpg",
+    "static/media/perfecto.webp": "/homework01/static/media/perfecto.66368ad7ff090f95baa6.webp",
+    "static/media/sdy.jpg": "/homework01/static/media/sdy.22285a20e36ebbf8e85f.jpg",
+    "static/media/ropz.jpg": "/homework01/static/media/ropz.05cb3bfcf02988b7b2b0.jpg",
+    "static/media/faze.jpg": "/homework01/static/media/faze.4768357fc10f357f96b8.jpg",
+    "static/media/navi.jpg": "/homework01/static/media/navi.cf17243d2b0c273ed445.jpg",
+    "static/media/Twistzz.webp": "/homework01/static/media/Twistzz.07e75910c3dd8c1b1a31.webp",
+    "static/media/hobbit.jpg": "/homework01/static/media/hobbit.c2ace68a1944b494edf3.jpg",
+    "static/media/rain.webp": "/homework01/static/media/rain.fbe1ade754c06d52565d.webp",
+    "static/media/shiro.jpg": "/homework01/static/media/shiro.23c3c942387013203c0f.jpg",
+    "static/media/s1mple.jpg": "/homework01/static/media/s1mple.9b87d57cd2f905205c54.jpg",
+    "static/media/ax1le.jpg": "/homework01/static/media/ax1le.12d7128d0bb7edd488b2.jpg",
+    "static/media/cloud9.webp": "/homework01/static/media/cloud9.22e76c64b7c495c721aa.webp",
+    "static/media/karrigan.jpg": "/homework01/static/media/karrigan.628510ee249cad80e7d9.jpg",
+    "index.html": "/homework01/index.html",
+    "main.f3d3ca23.css.map": "/homework01/static/css/main.f3d3ca23.css.map",
+    "main.6067bd0b.js.map": "/homework01/static/js/main.6067bd0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d3ca23.css",
+    "static/js/main.6067bd0b.js"
+  ]
+}
