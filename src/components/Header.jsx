@@ -10,10 +10,10 @@ function Header() {
 					<Link className="about" to="/">About</Link>
 				</li>
 				<li>
-					<Link className="top-players" to="/TopTeams">Top Teams</Link>
+					<Link className="top-players" to="/topTeams">Top Teams</Link>
 				</li>
 				<li>
-					<Link className="faceIt" to="/FaceIt">About Face It</Link>
+					<Link className="faceIt" to="/faceIt">About Face It</Link>
 				</li>
 			</ul>
 		</nav>
